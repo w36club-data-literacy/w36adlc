@@ -1,6 +1,10 @@
 body {
 	background-color:  #BDBDBD;
 }
-h1 {
+h1{
+	padding: 30px;
+	margin: 0px;
+}
+span {
 	border-bottom: 1px solid gray;
 }
